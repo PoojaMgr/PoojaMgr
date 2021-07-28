@@ -1,4 +1,4 @@
-### Hi, I'm Pooja 👋 👩🏻‍🏫✨
+### Hi, I'm Pooja 👋 👩✨
 <img src="https://raw.githubusercontent.com/PoojaMgr/PoojaMgr/master/POOJA THAPA (5) (1).jpg" alt="banner that says about Pooja Thapa"/>
 I'm a software engineer who is passionate about working in new technologies.Some technologies I enjoy working with include ReactJS, JavaScript, Apollo GraphQL. Currently, exploring backend technology such as NodeJS & MongoDB.
 
