@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about working in new technologies.Some
 
 ## Find me around the web 🌎
  - On <a href="https://twitter.com/poojamgr">Twitter</a>  ✍🏾 
- - On <a href="https://www.linkedin.com/in/pooja-thapa-815359b1">LinkedIn</a> 💼
+ - On <a href="https://www.linkedin.com/in/pooja-thapa">LinkedIn</a> 💼
 
 
 
